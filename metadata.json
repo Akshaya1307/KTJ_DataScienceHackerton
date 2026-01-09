@@ -1,0 +1,5 @@
+{
+  "name": "DragonHatchling-B: Continuous Narrative Reasoner",
+  "description": "A sophisticated reasoning system for Track B of the Kharagpur Data Science Hackathon, implementing BDH-inspired continuous narrative analysis and consistency checking between novels and character backstories.",
+  "requestFramePermissions": []
+}
